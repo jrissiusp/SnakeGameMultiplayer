@@ -18,3 +18,13 @@ Após baixar a libgdx e criar uma pasta na qual rodará o jogo, voce deve exclui
 todo conteúdo do arquivo 'Snake.zip', após este ter sido extraído (para baixar o arquivo clique nele e depois clique em "view raw"), para essa pasta.
 Depois de ter feito esse processo, abrir a pasta no INTELLIJ, entrar na aba de desktop, e então rodar o arquivo DesktopLauncher.
 O jogo estará funcionando perfeitamente.
+
+TESTES:
+Os testes do nosso programa foram feitos manualmente logo após criar um método específico para verificarmos se este estava funcionando de acordo
+com o que queríamos para não deixar acumular possíveis erros. 
+
+PROBLEMAS ENFRENTADOS:
+O maior problema enfrentado foi não conseguir rodar o jogo para VsCode, mas que foi facilmente corrigido uma vez que no INTELLIJ o programa roda sem
+grandes dificuldades. Seguindo o passo a passo, dificilmente irá encontrar algum erro.
+
+
