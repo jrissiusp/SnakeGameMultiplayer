@@ -13,5 +13,7 @@ No âmbito da jogabilidade, o jogo é bem facil de se jogar, uma cobrinha é com
 RODAR O JOGO:
 Rodar o jogo é a parte mais complicada. Pesquisamos e tentamos rodar no vscode, porém sem sucesso. Agora quando tentamos rodar no 
 INTELLIJ nao tivemos problema. Para que seja possivel rodar o jogo, é necessário ser instalada a biblioteca libgdx.
-Seguindo o passo a passo desse link: https://youtube.com/watch?v=tuVjurLVPO4 sobre como baixar a libgdx e observando a aba 
-"Tutorial libgdx", nenhum problema deve ser enfrentado.
+Seguindo o passo a passo desse link: https://youtube.com/watch?v=tuVjurLVPO4 sobre como baixar a libgdx, nenhum problema deve ser enfrentado.
+Após baixar a libgdx e criar uma pasta na qual rodará o jogo, voce deve excluir todo conteudo dentro dessa pasta e, após isso, copiar e colar
+todo conteúdo do arquivo 'Snake.zip' para essa pasta. Depois de ter feito esse processo, abrir a pasta no INTELLIJ, entrar na aba de desktop,
+e então rodar o arquivo DesktopLauncher. O jogo estará funcionando perfeitamente.
