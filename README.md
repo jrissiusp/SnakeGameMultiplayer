@@ -19,7 +19,7 @@ No âmbito da jogabilidade, o jogo é bem facil de se jogar, uma cobrinha é com
 (cima, baixo, esquerda, direita; respectivamente) enquanto a outra cobra é comandada pelas teclas das setas.
 
 ### TESTES:
-Os testes foram reazlizados após a adição de cada funcionalidade garantindo sua execução e interação correta com outros métodos evtando o acúmulo de possíveis erros. 
+Os testes foram realizados após a adição de cada funcionalidade garantindo sua execução e interação correta com outros métodos evitando o acúmulo de possíveis erros. 
 
 ### RODAR O JOGO: 
 Rodar o jogo é a parte mais complicada. Para que seja possivel rodar o jogo, é necessário ser instalada a biblioteca libgdx ( https://libgdx.com/ ).
